@@ -1,0 +1,26 @@
+img#me {
+    border-radius: 50px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 10px 10px 5px #ccc;
+    margin:auto
+}
+
+#introduction{
+    margin-top: 20px;
+    text-align: justify;
+}
+
+/* @media only screen and (max-width: 600px) {
+    img#me {
+        width: 50%;
+        margin:auto
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    img#me {
+        width: 90%;
+        margin:auto
+    }
+} */
